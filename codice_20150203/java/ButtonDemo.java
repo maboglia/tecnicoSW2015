@@ -81,7 +81,7 @@ public class ButtonDemo extends Activity implements View.OnClickListener{
                 startActivity(i);
                 break;
             case R.id.llBottom:
-                tvMessaggio.setText("Hai premuto sulk layout bottom");
+                tvMessaggio.setText("Hai premuto sul layout bottom");
                 break;
             default:
 
